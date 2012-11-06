@@ -1,8 +1,8 @@
 var radar_arcs = [
-    { 'r':100, 'name': 'Ri' },
-    { 'r':200, 'name': 'Ha' },
-    { 'r':300, 'name': 'Shu' },
-    { 'r':400, 'name': 'Ku' }
+    { 'r':100, 'name': '' },
+    { 'r':200, 'name': '' },
+    { 'r':300, 'name': '' },
+    { 'r':400, 'name': '' }
 ];
 
 var radar_quadrants = [];
