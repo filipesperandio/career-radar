@@ -1,46 +1,49 @@
-title = 'Rafael Ferreira, May 2011';
+title = 'November, 2012';
 
 data = {
-    'Languages': {
-        'Java': 3,
-        'C#': 4,
-        'Objective-C': 1,
-        'C': 1,
-        'Ruby': 2,
-        'Javascript': 3,
-    },
+  'Languages': {
+    'Java': 4,
+    'JavaScript': 3,
+    'ShellScript': 2,
+    'Ruby': 2,
+    'Python': 1,
+  },
 
-    'Tools': {
-        'EC2': 2,
-        'SDB': 2,
-        'S3': 2,
-        'Ivy': 2,
-        'Ant': 3,
-        'Visual Studio': 4,
-        'IntelliJ': 2,
-        'Eclipse': 3,
-        'Git': 2,
-        'Vim': 2,
-        'Svn': 2,
-    },
+  'Tools': {
+    'Eclipse':4,
+    'Git/Svn':4,
+    'Vim':3,
+    'Ant/Maven/Ivy':3,
+    'VRaptor/Restfulie':4,
+    'Axis2/Spring/Hibernate/IBatis':3,
+    'Mokito/Jmock':4,
+    'Grunt':2,
+    'Node':2,
+    'Jasmine':3,
+    'jQuery':2,
+    'AngularJS':3,
+    'Bootstrap':3,
+    'Oracle':2,
+    'MongoDB':2,
+    'SoapUI':2,
+  },
 
-    'Techniques': {
-        'TDD': 3,
-        'DDD': 2,
-        'BDD': 2,
-        'REST':1,
-        'OOD': 4,
-        'DevOps': 1,
-        'Refactoring': 3,
-    },
+  'Techniques': {
+    'DDD': 3,
+    'TDD': 3,
+    'BDD': 1,
+    'OOD': 4,
+    'Refactoring':3,
+    'DevOps':3,
+  },
 
-    'Platforms': {
-        'Linux': 3,
-        'MacOS X': 2,
-        'Windows': 4,
-        'iOS': 1,
-        'Android': 1,
-        '.Net': 3,
-    }
+  'Platforms': {
+    'MacOS':3,
+    'Linux':4,
+    'Windows':4,
+    'ESX/vSphere':2,
+    'Heroku':3,
+    'Android':1,
+    'AWS/S3':  2
+  }
 };
-
