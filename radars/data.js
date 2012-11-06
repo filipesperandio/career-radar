@@ -1,47 +1,63 @@
-title = 'Filipe Esperandio, July 2011';
+title = 'Filipe Esperandio, May 2012';
 
 data = {
-    'Languages': {
-        'Java': 4,
-        'Javascript' : 2,
-        'Python': 1,
-        'Ruby': 1,
-        'Shell Script': 3,
-    },
+  'Languages': {
+    'Java': 4,
+    'JavaScript': 3,
+    'ShellScript': 2,
+    'Ruby': 2,
+    'Python': 1,
+  },
 
-    'Tools': {
-        'Eclipse':4,
-        'Git':3,
-        'EC2':2,
-        'Ivy':3,
-        'Ant':3,
-        'Vim':2,
-        'Svn':4,
-        'IntelliJ':1,
-        'Maven':1,
-        'Rake': 1,
-    },
+  'Tools': {
+    'Eclipse':4,
+    'Git/Svn':4,
+    'Vim':3,
+    'AWS/S3':  2,
+    'Ant/Maven/Ivy':3,
+    'VRaptor/Restfulie':4,
+    'Axis2/Spring/Hibernate/IBatis':3,
+    'Mokito/Jmock':3,
+    'Jasmine':2,
+    'jQuery':2,
+    'AngularJS':3,
+    'Bootstrap':3,
+    'Oracle':2,
+    'MongoDB':2,
+    'SoapUI':2,
+  },
 
-    'Techniques': {
-        'TDD': 3,
-        'Design Patterns': 2,
-        'DDD': 2,
-        'BDD': 1,
-        'OOD': 4,
-        'DevOps':3,
-        'Refactoring':3,
-    },
+  'Techniques': {
+    'DDD': 3,
+    'TDD': 3,
+    'BDD': 1,
+    'OOD': 4,
+    'Refactoring':3,
+    'DevOps':3,
+  },
 
-    'Platforms': {
-        'Linux':4,
-        'Windows':3,
-    	'ESX/vSphere':3,
-        'Mac OSX': 1,
-        'Network stuffs': 3,
-        'Cisco': 2,
-        'Android': 2,
-        'iOS': 1,
-    }
+  'Platforms': {
+    'MacOS':3,
+    'Linux':4,
+    'Windows':4,
+    'ESX/vSphere':2,
+    'Heroku':3,
+    'GAE':1,
+    'Android':1,
+  }
 };
 
+interest = {
+  'Languages': {
+  },
+
+  'Tools': {
+  },
+
+  'Techniques': {
+  },
+
+  'Platforms': {
+  }
+};
 

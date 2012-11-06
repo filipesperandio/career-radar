@@ -1,8 +1,8 @@
 var radar_arcs = [
-    { 'r':100, 'name': 'and I have a good experience' },
-    { 'r':200, 'name': 'and I can be productive with' },
-    { 'r':300, 'name': 'and I am interested on it' },
-    { 'r':400, 'name': 'It is on my radar now' },   
+    { 'r':100, 'name': 'Ri' },
+    { 'r':200, 'name': 'Ha' },
+    { 'r':300, 'name': 'Shu' },
+    { 'r':400, 'name': 'Ku' }
 ];
 
 var radar_quadrants = [];
@@ -20,7 +20,7 @@ function len(object) {
 }
 
 var quad = 1;
-for (var quadrant in data) {
+for(var quadrant in data) {
     var i = 1;
     var start = radar_data.length;
 
