@@ -1,4 +1,4 @@
-title = 'Filipe Esperandio, May 2012';
+title = 'November, 2012';
 
 data = {
   'Languages': {
@@ -13,12 +13,13 @@ data = {
     'Eclipse':4,
     'Git/Svn':4,
     'Vim':3,
-    'AWS/S3':  2,
     'Ant/Maven/Ivy':3,
     'VRaptor/Restfulie':4,
     'Axis2/Spring/Hibernate/IBatis':3,
-    'Mokito/Jmock':3,
-    'Jasmine':2,
+    'Mokito/Jmock':4,
+    'Grunt':2,
+    'Node':2,
+    'Jasmine':3,
     'jQuery':2,
     'AngularJS':3,
     'Bootstrap':3,
@@ -42,8 +43,8 @@ data = {
     'Windows':4,
     'ESX/vSphere':2,
     'Heroku':3,
-    'GAE':1,
     'Android':1,
+    'AWS/S3':  2
   }
 };
 
