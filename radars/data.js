@@ -1,24 +1,25 @@
-title = 'November, 2012';
+title = 'Junho, 2013';
 
 data = {
   'Languages': {
     'Java': 4,
-    'JavaScript': 3,
+    'JavaScript': 4,
     'ShellScript': 2,
-    'Ruby': 2,
-    'Python': 1,
+    'Ruby': 2
   },
 
   'Tools': {
     'Eclipse':4,
-    'Git/Svn':4,
-    'Vim':3,
+    'Git':4,
+    'Vim':4,
     'Maven/Ant':3,
     'Grunt':2,
+    'Gradle':2,
     'Node':2,
     'Oracle':2,
     'MongoDB':2,
-    'Curl/Httpie': 2
+    'Postgres':3,
+    'Curl/Httpie': 3
   },
 
   'Frameworks': {
@@ -40,6 +41,6 @@ data = {
     'Heroku':3,
     'ESX/vSphere':2,
     'AWS/S3':  2,
-    'Android':1,
+    'Android':2,
   }
 };
