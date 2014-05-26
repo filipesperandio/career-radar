@@ -13,8 +13,8 @@ data = {
     'Vim':4,
     'Maven/Ant':3,
     'Grunt':2,
-    'Gradle':4,
-    'Oracle':4,
+    'Gradle':1,
+    'Oracle':1,
     'MongoDB':2,
     'Postgres':3,
     'Curl/Httpie': 3
@@ -39,7 +39,7 @@ data = {
     'Heroku':3,
     'ESX/vSphere':2,
     'AWS/S3':  2,
-    'Android':2,
-    'Node':3,
+    'Android':3,
+    'Node':2,
   }
 };
